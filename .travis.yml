@@ -1,0 +1,8 @@
+lenguage: python
+
+python:
+
+  -3.8.5
+
+#script: 
+#  -Aplicacion/test.py
